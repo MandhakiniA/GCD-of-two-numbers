@@ -34,7 +34,6 @@ def gcd():
     print("GCD of two numbers is:",hcf)
 */
 ```
-
 ## Output:
 ![gcd of two number](gcd.png)
 ![image](https://github.com/MandhakiniA/GCD-of-two-numbers/assets/150005194/a0a58584-f8dc-425f-8fa5-b46f95174310)
